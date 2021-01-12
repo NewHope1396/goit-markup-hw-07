@@ -6,3 +6,9 @@ $mainBgColor:  #2f303a;
 $secondaryBgColor: #f5f4fa;
 $iconAccent: #2196f3;
 $iconColor: #afb1b8;
+
+body {
+    color: $mainColor;
+    font-family: "Roboto", sans-serif;
+    background-color: $white;
+  }
