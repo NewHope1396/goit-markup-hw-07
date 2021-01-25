@@ -1,4 +1,10 @@
-.container {
+body {
+    color: $mainColor;
+    font-family: "Roboto", sans-serif;
+    background-color: $white;
+  }
+
+  .container {
     width: 1200px;
     padding: 0 15px;
     margin-left: auto;
