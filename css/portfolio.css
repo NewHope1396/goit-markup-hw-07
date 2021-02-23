@@ -41,6 +41,7 @@ ul {
 @font-face {
   font-family: Roboto;
   src: url(../../fonts/Roboto-Medium.ttf);
+  font-style: normal;
   font-weight: 500;
 }
 
