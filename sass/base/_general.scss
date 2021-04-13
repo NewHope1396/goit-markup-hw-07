@@ -11,35 +11,4 @@ body {
     margin-right: auto;
   }
 
-  .centred {
-    text-align: center;
-  }
-
-  .current-page {
-    position: relative;
-    color: $accent;
-  }
-
-  .section-title {
-    font-size: 36px;
-    font-weight: $bold;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-  }
-
-  .section-title::first-letter {
-    text-transform: capitalize;
-  }
-
-  .contacts {
-    font-style: normal;
-    color: $secondaryColor;
-    font-weight: $normal;
-    font-size: 14px;
-    line-height: 1.71;
-  }
-
-  .is-hidden {
-    opacity: 0;
-    pointer-events: none;
-  }
+ 

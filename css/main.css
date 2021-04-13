@@ -52,19 +52,6 @@ ul {
   font-weight: 700;
 }
 
-body {
-  color: #212121;
-  font-family: "Roboto", sans-serif;
-  background-color: #ffffff;
-}
-
-.container {
-  width: 1200px;
-  padding: 0 15px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .centred {
   text-align: center;
 }
@@ -96,6 +83,19 @@ body {
 .is-hidden {
   opacity: 0;
   pointer-events: none;
+}
+
+body {
+  color: #212121;
+  font-family: "Roboto", sans-serif, sans-serif;
+  background-color: #ffffff;
+}
+
+.container {
+  width: 1200px;
+  padding: 0 15px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 header {
@@ -211,7 +211,7 @@ header {
 .logo-first-part,
 .logo-second-part,
 .logo-footer-second-part {
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway", sans-serif, sans-serif;
   font-size: 26px;
   line-height: 1.19;
   font-weight: 700;
@@ -526,7 +526,6 @@ footer .logo {
 
 .clients svg {
   width: 100%;
-  height: 100%;
 }
 
 footer {
@@ -573,7 +572,7 @@ footer {
   width: 358px;
   height: 50px;
   padding: 15px 16px;
-  background-color: #f5f4fa;
+  background-color: #2f303a;
   border: 1px solid rgba(255, 255, 255, 0.3);
   border-radius: 4px;
   color: #ffffff;
